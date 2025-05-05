@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Learn how to choose lab-grown diamonds and why they are changing the jewelry industry." />
+  <title>Blog | The Smart Sparkle</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Our Blog</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="blog.html">Blog</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <article>
+      <h2>Top 5 Reasons to Buy Lab-Grown Diamonds</h2>
+      <p><strong>Published:</strong> May 5, 2025</p>
+      <p>Lab-grown diamonds are chemically identical to mined diamonds. Here's why more people are making the switch:</p>
+      <ol>
+        <li>Better for the environment</li>
+        <li>Cost-effective</li>
+        <li>Customizable options</li>
+        <li>Transparency in sourcing</li>
+        <li>Same sparkle, guilt-free</li>
+      </ol>
+      <a href="https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/29/why-lab-grown-diamonds-are-here-to-stay/" target="_blank">Read more on Forbes</a>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 The Smart Sparkle</p>
+  </footer>
+</body>
+</html>
